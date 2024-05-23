@@ -8,13 +8,13 @@ export default function Navbar() {
         <nav className="sticky top-0 z-10 w-full font-poppinsmd:mr-auto md:ml-4 md:border-l md:border-gray-700	flex flex-wrap break-words items-center text-base justify-center">
           <NavLink
             to="/"
-            className="ml-2 mr-4 xs:text-sm sm:text-md md:text-lg lg:text-xl text-2xl bold title-font text-white hover:text-[#ff4444]"
+            className="ml-2 mr-4 xs:text-sm sm:text-md md:text-lg lg:text-xl xl:text-2xl bold title-font text-white hover:text-[#ff4444]"
           >
             Home
           </NavLink>
           <NavLink
             to="/about"
-            className="ml-2 mr-4 xs:text-sm sm:text-md md:text-lg lg:text-xl text-2xl bold title-font  text-white hover:text-[#ff4444]"
+            className="ml-2 mr-4 xs:text-sm sm:text-md md:text-lg lg:text-xl xl:text-2xl bold title-font  text-white hover:text-[#ff4444]"
           >
             About
           </NavLink>

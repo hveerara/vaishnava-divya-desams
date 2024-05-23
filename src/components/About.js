@@ -14,7 +14,7 @@ export default function About() {
             backgroundImage: getBackgroundImageUrl("About"),
           }}
         ></div>
-        <div className="text-justify tracking-wide pt-10 ml-10 mr-10 xs:text-sm sm:text-sm md:text-md lg:text-lg xl:text-xl">
+        <div className="text-justify tracking-wide pt-10 ml-10 mr-10 xs:text-lg sm:text-lg md:text-xl lg:text-2xl xl:text-2xl leading-loose">
           <p className="mb-5">
             The author, Dr. D. VEERARAGAVATHATHAM, Ph.D. (Horticulture) is the
             son of Srirangam Kodikannikathanam Desikathathachary and is a

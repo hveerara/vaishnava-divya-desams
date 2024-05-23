@@ -12,7 +12,7 @@ const Category = () => {
   return (
     <>
       <Navbar />
-      <div className="h-full">
+      <div className="songDetail">
         <div className="songDetail flex-1">
           <div
             className="relative overflow-hidden rounded-lg bg-cover bg-no-repeat p-12 text-center"
@@ -30,7 +30,7 @@ const Category = () => {
             >
               <div className="flex h-full items-center justify-center">
                 <div className="text-white">
-                  <h1 className="text-center xs:text-2xl sm:text-3xl md:text-4xl text-6xl bold tracking-wide text-gray-100 ">
+                  <h1 className="text-center xs:text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl bold tracking-wide text-gray-100 ">
                     {categoryName}
                   </h1>
                 </div>
@@ -44,7 +44,7 @@ const Category = () => {
               <div className="overflow-x-auto">
                 <div className="w-full inline-block align-middle">
                   <div className="overflow-hidden border rounded-lg">
-                    <table className="w-screen table-fixed md:table-auto sm:table-auto xs:table:auto min-w-full divide-y divide-gray-200">
+                    <table className="w-screen table:auto min-w-full divide-y divide-gray-200">
                       {/* <thead className="bg-gray-100">
                       <tr className="flex flex-row">
                         <th
@@ -81,7 +81,7 @@ const Category = () => {
                                 {song.id}
                               </NavLink>
                             </td>
-                            <td className="td-class w-1/3 px-3 py-4">
+                            <td className="td-class w-1/4 px-3 py-4">
                               <NavLink to={`/song/${song.id}`} key={index}>
                                 {song.sthalam}
                               </NavLink>
