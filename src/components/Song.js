@@ -40,7 +40,7 @@ const Song = () => {
           </div>
         </div>
         <div className="grid xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 gap-20 pt-20 pb-20">
-          <div>
+          <div className="xs:pr-10 sm:pr-10 md:pr-10">
             <div className="grid w-full grid-cols-2 sm:grid-cols-2 rounded-md p-2">
               <div className="font-light pl-4 grow-0 col-span-1 text-center">
                 Author:
