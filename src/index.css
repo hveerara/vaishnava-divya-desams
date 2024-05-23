@@ -27,6 +27,7 @@ body {
   margin: 20px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .sliderItemImage {
@@ -54,6 +55,10 @@ body {
   width: 100%;
 }
 
+.react-multi-carousel-list {
+  justify-content: center;
+}
+
 .react-multi-carousel-item {
   padding: 0 10px 20px 0;
   width: 100%;
@@ -64,6 +69,7 @@ body {
   border: none;
   background: rgb(255, 68, 68);
 }
+
 .react-multi-carousel-dot.react-multi-carousel-dot--active button {
   background: rgb(255, 255, 255) !important;
 }

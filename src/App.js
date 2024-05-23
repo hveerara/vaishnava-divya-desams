@@ -1,4 +1,4 @@
-import React from "react";
+import { default as React } from "react";
 import { Route, HashRouter as Router, Routes } from "react-router-dom";
 import About from "./components/About.js";
 import AllCategories from "./components/AllCategories.js";

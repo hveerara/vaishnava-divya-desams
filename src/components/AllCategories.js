@@ -29,10 +29,10 @@ const Home = () => {
     <>
       <Navbar />
       <div className="h-screen flex flex-col justify-center">
-        <div className="rounded-md p-5 bg-black align-middle text-center xs:text-xl sm:text-3xl md:text-4xl text-6xl bold tracking-wide text-gray-100 ">
+        <div className="rounded-md p-5 bg-black align-middle text-center xs:text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl bold tracking-wide text-gray-100 ">
           Welcome!
         </div>
-        <div className="rounded-md p-5 bg-black align-middle text-center xs:text-xl sm:text-3xl md:text-4xl text-6xl bold tracking-wide text-gray-100 ">
+        <div className="rounded-md p-5 bg-black align-middle text-center xs:text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl bold tracking-wide text-gray-100 ">
           Enjoy taking a musical journey to the Vaishnava Divya Desams alongside{" "}
           <br />
           Dr. D. Veeraragavathatham
@@ -52,8 +52,7 @@ const Home = () => {
             {songCategories.map((category, index) => (
               <NavLink to={`/category/${category}`} key={index}>
                 <div
-                  className="sliderItemImage"
-                  key={index}
+                  class="relative overflow-hidden rounded-lg bg-cover bg-no-repeat p-12 text-center"
                   style={{
                     backgroundImage: getBackgroundImageUrl(category),
                     height: "25vh",
@@ -61,10 +60,18 @@ const Home = () => {
                     backgroundRepeat: "no-repeat",
                     backgroundSize: "cover",
                   }}
-                ></div>
-                <div className="sliderItemText">
-                  <div className="text-gray-300 text-2xl bold tracking-wider p-1 text-center break-words">
-                    {category}
+                >
+                  <div
+                    class="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed"
+                    style={{ backgroundColor: "rgba(0, 0, 0, 0.3)" }}
+                  >
+                    <div class="flex h-full items-center justify-center">
+                      <div class="text-white">
+                        <h1 className="text-center xs:text-lg sm:text-xl md:text-2xl text-8xl bold tracking-wide text-white ">
+                          {category}
+                        </h1>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </NavLink>
