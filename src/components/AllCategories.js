@@ -45,8 +45,9 @@ const Home = () => {
             swipeable={true}
             draggable={true}
             showDots={true}
-            infinite={true}
+            infinite={false}
             partialVisible={true}
+            removeArrowOnDeviceType={["tablet", "mobile"]}
             dotListClass="custom-dot-list-style"
             itemClass="carousel-item-padding-10-px"
           >
