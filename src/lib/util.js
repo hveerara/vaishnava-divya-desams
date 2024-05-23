@@ -18,8 +18,8 @@ export const getBackgroundImageUrl = (category) => {
       return "url('/img/flower-red-hibiscus.jpeg')";
     case "Mangalam":
       return "url('/img/flower-red-hibiscus.jpeg')";
-    case "Prayer":
-      return "url('/img/flower-white-daisies.jpeg')";
+    // case "Prayer":
+    //   return "url('/img/flower-white-daisies.jpeg')";
     case "About":
       return "url('/img/veer.png')";
     default:

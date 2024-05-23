@@ -25,6 +25,7 @@ const responsive = {
 };
 const Home = () => {
   const songCategories = [...new Set(songsData.map((song) => song.category))];
+  console.log(JSON.stringify(songCategories));
   return (
     <>
       <Navbar />
@@ -45,14 +46,14 @@ const Home = () => {
             draggable={true}
             showDots={true}
             infinite={true}
-            partialVisible={false}
+            partialVisible={true}
             dotListClass="custom-dot-list-style"
             itemClass="carousel-item-padding-10-px"
           >
             {songCategories.map((category, index) => (
               <NavLink to={`/category/${category}`} key={index}>
                 <div
-                  class="relative overflow-hidden rounded-lg bg-cover bg-no-repeat p-12 text-center"
+                  className="relative overflow-hidden rounded-lg bg-cover bg-no-repeat p-12 text-center"
                   style={{
                     backgroundImage: getBackgroundImageUrl(category),
                     height: "25vh",
@@ -62,11 +63,11 @@ const Home = () => {
                   }}
                 >
                   <div
-                    class="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed"
+                    className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed"
                     style={{ backgroundColor: "rgba(0, 0, 0, 0.3)" }}
                   >
-                    <div class="flex h-full items-center justify-center">
-                      <div class="text-white">
+                    <div className="flex h-full items-center justify-center">
+                      <div className="text-white">
                         <h1 className="text-center xs:text-lg sm:text-xl md:text-2xl text-8xl bold tracking-wide text-white ">
                           {category}
                         </h1>

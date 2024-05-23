@@ -7,14 +7,17 @@ import Song from "./components/Song.js";
 
 const App = () => {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<AllCategories />} />
-        <Route path="/category/:categoryName" element={<Category />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/song/:id" element={<Song />} />
-      </Routes>
-    </Router>
+    <>
+      {/* <ScrollToTop /> */}
+      <Router>
+        <Routes>
+          <Route path="/" element={<AllCategories />} />
+          <Route path="/category/:categoryName" element={<Category />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/song/:id" element={<Song />} />
+        </Routes>
+      </Router>
+    </>
   );
 };
 
