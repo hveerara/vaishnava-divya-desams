@@ -3,12 +3,13 @@ import { Route, HashRouter as Router, Routes } from "react-router-dom";
 import About from "./components/About.js";
 import AllCategories from "./components/AllCategories.js";
 import Category from "./components/Category.js";
+import ScrollToTop from "./components/ScrollToTop.js";
 import Song from "./components/Song.js";
 
 const App = () => {
   return (
     <>
-      {/* <ScrollToTop /> */}
+      <ScrollToTop />
       <Router>
         <Routes>
           <Route path="/" element={<AllCategories />} />

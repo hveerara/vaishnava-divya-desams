@@ -43,8 +43,8 @@ const Category = () => {
             <div className="flex flex-col p-10">
               <div className="overflow-x-auto">
                 <div className="w-full inline-block align-middle">
-                  <div className="overflow-hidden border rounded-lg">
-                    <table className="w-screen table:auto min-w-full divide-y divide-gray-200">
+                  <div className="overflow-hidden">
+                    <table className="table:auto min-w-full divide-y divide-gray-200 border rounded-full">
                       {/* <thead className="bg-gray-100">
                       <tr className="flex flex-row">
                         <th

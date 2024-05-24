@@ -5,23 +5,7 @@ import { songsData } from "../lib/songs-data";
 import { getBackgroundImageUrl } from "../lib/util";
 import Footer from "./Footer.js";
 import Navbar from "./Navbar.js";
-// const responsive = {
-//   desktop: {
-//     breakpoint: { max: 3000, min: 1024 },
-//     items: 5,
-//     slidesToSlide: 1, // optional, default to 1.
-//   },
-//   tablet: {
-//     breakpoint: { max: 1024, min: 768 },
-//     items: 3,
-//     slidesToSlide: 3, // optional, default to 1.
-//   },
-//   mobile: {
-//     breakpoint: { max: 767, min: 250 },
-//     items: 2,
-//     slidesToSlide: 1, // optional, default to 1.
-//   },
-// };
+
 const Home = () => {
   const songCategories = [...new Set(songsData.map((song) => song.category))];
   return (
@@ -36,19 +20,6 @@ const Home = () => {
           <br />
           Dr. D. Veeraragavathatham
         </div>
-        {/* <div className="main"> */}
-        {/* <Carousel
-            responsive={responsive}
-            autoPlay={false}
-            swipeable={true}
-            draggable={true}
-            showDots={true}
-            infinite={true}
-            partialVisible={false}
-            // removeArrowOnDeviceType={["tablet", "mobile"]}
-            dotListClass="custom-dot-list-style"
-            itemClass="carousel-item-padding-10-px"
-          > */}
         <div className="flex flex-col flex-wrap content-center">
           <div className="container mx-auto grid xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 gap-10 p-5">
             {songCategories.map((category, index) => (
@@ -81,9 +52,7 @@ const Home = () => {
             ))}
           </div>
         </div>
-        {/* </Carousel> */}
       </div>
-      {/* </div> */}
       <Footer />
     </>
   );
