@@ -9,9 +9,20 @@
   margin: 0;
   box-sizing: border-box;
 }
+html,
+body {
+  height: 100%;
+  overflow-y: scroll;
+}
 body {
   background: #000;
   color: white;
+}
+.footer {
+  position: static;
+  bottom: 0;
+  height: 10%;
+  background-color: yellow;
 }
 
 @layer utilities {
@@ -120,15 +131,22 @@ body {
   justify-items: center;
 }
 
-tr:nth-child(even) {
-  background-color: #d3d3d3;
-  color: #000;
-}
-
 .td-class {
   @apply px-4 py-3;
 }
 
-.tr-class {
-  @apply flex flex-col sm:table-row md:table-row lg:table-row xl:table-row;
+.cell {
+  @apply px-4 py-3;
+}
+
+.row {
+  @apply flex xs:flex-col sm:flex-col md:flex-col lg:flex-col xl:flex-row;
+}
+
+.row:nth-child(even) {
+  background-color: #d3d3d3;
+  color: #000;
+}
+.row:hover {
+  color: rgb(255, 68, 68);
 }

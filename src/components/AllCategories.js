@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <>
       <Navbar />
-      <div className="h-full w-full flex flex-col">
+      <div className="h-full w-full flex flex-col p-10">
         <div className="rounded-md p-5 bg-black align-middle text-center xs:text-md sm:text-lg md:text-xl lg:text-2xl xl:text-3xl bold tracking-wide text-gray-100 ">
           Welcome!
         </div>
@@ -21,11 +21,11 @@ const Home = () => {
           Dr. D. Veeraragavathatham
         </div>
         <div className="flex flex-col flex-wrap content-center">
-          <div className="container mx-auto grid xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 gap-10 p-5">
+          <div className="container grid grid-cols-2 gap-10">
             {songCategories.map((category, index) => (
               <NavLink to={`/category/${category}`} key={index}>
                 <div
-                  className="relative overflow-hidden rounded-lg bg-cover bg-no-repeat p-12 text-center"
+                  className="relative overflow-hidden rounded-lg bg-cover bg-no-repeat text-center"
                   style={{
                     backgroundImage: getBackgroundImageUrl(category),
                     width: "100%",
@@ -36,7 +36,7 @@ const Home = () => {
                   }}
                 >
                   <div
-                    className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed"
+                    className="absolute bottom-0 left-0 right-0 top-0 overflow-hidden bg-fixed"
                     style={{ backgroundColor: "rgba(0, 0, 0, 0.3)" }}
                   >
                     <div className="flex h-full items-center justify-center">

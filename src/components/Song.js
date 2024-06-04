@@ -30,7 +30,7 @@ const Song = () => {
             >
               <div className="flex h-full items-center justify-center">
                 <div className="text-white">
-                  <h1 className="text-center p-3 xs:text-2xl sm:text-3xl md:text-4xl text-6xl bold tracking-wide text-gray-100 ">
+                  <h1 className="text-center p-3 xs:text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl bold tracking-wide text-gray-100 ">
                     {currentSong[0].sthalam} &nbsp; &#x1F3B5;&nbsp;&nbsp;
                     {currentSong[0].songTitle}
                   </h1>
@@ -39,7 +39,7 @@ const Song = () => {
             </div>
           </div>
         </div>
-        <div className="grid xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 gap-20 pt-20 pb-20">
+        <div className="grid xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-2 gap-20 pt-20 pb-20">
           <div className="xs:pr-10 sm:pr-10 md:pr-10">
             <div className="grid w-full grid-cols-2 sm:grid-cols-2 rounded-md p-2">
               <div className="font-light pl-4 grow-0 col-span-1 text-center">
