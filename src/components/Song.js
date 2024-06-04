@@ -30,7 +30,7 @@ const Song = () => {
             >
               <div className="flex h-full items-center justify-center">
                 <div className="text-white">
-                  <h1 className="text-center p-3 xs:text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl bold tracking-wide text-gray-100 ">
+                  <h1 className="text-center p-3 xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl bold tracking-wide text-gray-100 ">
                     {currentSong[0].sthalam} &nbsp; &#x1F3B5;&nbsp;&nbsp;
                     {currentSong[0].songTitle}
                   </h1>

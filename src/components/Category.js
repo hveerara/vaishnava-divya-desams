@@ -29,7 +29,7 @@ const Category = () => {
           >
             <div className="flex h-full items-center justify-center">
               <div className="text-white">
-                <h1 className="text-center xs:text-lg sm:text-xl md:text-xl lg:text-2xl xl:text-3xl bold tracking-wide text-gray-100 ">
+                <h1 className="text-center xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl bold tracking-wide text-gray-100 ">
                   {categoryName}
                 </h1>
               </div>
