@@ -40,7 +40,7 @@ const Song = () => {
           </div>
         </div>
         <div className="grid xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-2 gap-20 pt-20 pb-20">
-          <div className="xs:pr-10 sm:pr-10 md:pr-10">
+          <div className="xs:pr-10 sm:pr-10 md:pr-10 xs:text-lg sm:text-lg md:text-xl lg:text-2xl xl:text-2xl leading-loose">
             <div className="grid w-full grid-cols-2 sm:grid-cols-2 rounded-md p-2">
               <div className="font-light pl-4 grow-0 col-span-1 text-center">
                 Author:
@@ -108,10 +108,10 @@ const Song = () => {
                 <div className="font-light pl-4 grow-0 text-center col-span-1">
                   Background Story:
                 </div>
-                <div
-                  className="container mx-auto wrap justify-center items-center text-justify h-22 overflow-y-auto"
+                <p
+                  className="font-light container mx-auto wrap justify-center items-center text-justify h-22 overflow-y-auto leading-10"
                   dangerouslySetInnerHTML={{ __html: currentSong[0].songIntro }}
-                ></div>
+                ></p>
               </div>
             )}
           </div>
