@@ -6,7 +6,7 @@ export const songsData = [
     sthalam: "Sri Rangam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1Nq_q4-ESqeT1QdCndRkhxLZy_PqW7NsG/preview",
+      "https://drive.google.com/file/d/17L6VY8fT0yvc7QvPp7BF5vM31OtgRREb/preview",
     songTitle: "Noi Attra Vazhvai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1563384166&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -23,7 +23,7 @@ export const songsData = [
     sthalam: "Uraiyur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1jgLSGys-sLcv4gpt0gI0vE5LJG6fICyc/preview",
+      "https://drive.google.com/file/d/1BDSYnFfIAE20fXJNzouSUXgK5gubDzRA/preview",
     songTitle: "Thirukozhi Ennum Padhiyam",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448949712&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -46,7 +46,7 @@ export const songsData = [
     sthalam: "Thirukarambanur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1ANEBR2KLKlMA2ThC4qUsozEqQ3W1jnJ_/preview",
+      "https://drive.google.com/file/d/10vHZNU4SINa1SRmDnMKC_SZdCldB_6SC/preview",
     songTitle: "Karambanur Urai Uthamaney",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448945995&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -65,7 +65,7 @@ export const songsData = [
     sthalam: "Thiruvellarai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1HfQAhLc7Xa_B2H9bt325dWYpV4fmqyhu/preview",
+      "https://drive.google.com/file/d/1Fvz5CtTt7Chwjvl5KlpWD0eebi0LuvzO/preview",
     songTitle: "Vellai Varaahathu Uruvaai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448942872&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -85,7 +85,7 @@ export const songsData = [
     sthalam: "Thiruanbil",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1NZRQ5MDEHi8hNb1I4fr8Uj6FS3WC_dzQ/preview",
+      "https://drive.google.com/file/d/1zPIQUYUg0OaNCS5Vmvu2VcRFFNlSGjjc/preview",
     songTitle: "Kollida Karai Amaindha",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1633433379&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -102,7 +102,7 @@ export const songsData = [
     sthalam: "Thiruppernagar",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1HuOeL_Aqz2-_tELUj6v0RRlX55Qucmvd/preview",
+      "https://drive.google.com/file/d/1p0jPqltD0bDhX-mAUDdDYUsglzGsWLHD/preview",
     songTitle: "Panja Rangam Thannil",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448936770&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -122,7 +122,7 @@ export const songsData = [
     sthalam: "Thirukandiyur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/11FRHFTygAxfZjWVQ-QQK-AMnbAYV8fjx/preview",
+      "https://drive.google.com/file/d/1bEM4DfWGVVi8N9Ma58TCEv2z9yZx-aS2/preview",
     songTitle: "Thirukandiyur Urai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1666689336&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -139,7 +139,7 @@ export const songsData = [
     sthalam: "Thirukoodalur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1reH_h3VgYydEG7SQ1uT3ZR6c09waZ3lQ/preview",
+      "https://drive.google.com/file/d/1WBkNxJKOXXe5jgsCzBcgfm0IBlufDmyU/preview",
     songTitle: "Vayangatha Perumal",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1666691298&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -159,7 +159,7 @@ export const songsData = [
     sthalam: "Thirukavithalam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1jATRx6mokva7HpDfdTUL8AjqBH1KAsF2/preview",
+      "https://drive.google.com/file/d/1AO9iQtsWc4FZQJB1VAjIGDsmi41bf_FH/preview",
     songTitle: "Kavithalam Urayum Gajendra",
     songURL: "",
     songRagam: "Shanmuga Priya",
@@ -178,7 +178,7 @@ export const songsData = [
     sthalam: "Thirupullamboothankudi",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1j5FnNFREjCAV2tPZtbhLF-dh9qwbg59s/preview",
+      "https://drive.google.com/file/d/1UzCCyFMcfo0PJSLVGbMphR_-SY8Z9Naw/preview",
     songTitle: "Valvil Ramanai Panivaai",
     songURL: "",
     songRagam: "Thilang",
@@ -193,7 +193,8 @@ export const songsData = [
     naadu: "chozhaNaadu",
     sthalam: "Thiruaadhanur",
     author: "Dr. D. Veeraragavathatham",
-    songLyrics: "",
+    songLyrics:
+      "https://drive.google.com/file/d/1thW0Z9ay-kk3T_Ox5nVQx6Ej6kjG4V90/preview",
     songTitle: "Aandalukkum Ayyanai",
     songURL: "",
     songRagam: "Kaapi",
@@ -213,7 +214,7 @@ export const songsData = [
     sthalam: "Thirukundandhai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/17oaVvYNiaTK2oRKxGgaKFZtALunSqkTB/preview",
+      "https://drive.google.com/file/d/1iZShS0BOr22zFvjBd9sm6QudDQg76NcE/preview",
     songTitle: "Kaviri Arisol Aarugal",
     songURL: "",
     songRagam: "Charukesi",
@@ -233,11 +234,11 @@ export const songsData = [
     sthalam: "Thiruvinnagar",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/17ODdxPCC9R5E1Q-OWKCAhFIJTywA0ZhM/preview",
+      "https://drive.google.com/file/d/1n7A_sR6S_lVFr-48CImmSGy5SXOCXSRy/preview",
     songTitle: "Thiruvinnagar Ennum",
     songURL: "",
     songRagam: "Anandha Bhairavi",
-    songThalam: "",
+    songThalam: "Adi",
     songIntro: "<span></span>",
     songTunedLike: "",
   },
@@ -248,7 +249,7 @@ export const songsData = [
     sthalam: "Thirunarayur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1Wo1r-1_bdVhTrpICNBgqkg2sCwtgIbBa/preview",
+      "https://drive.google.com/file/d/1Ojn7D8CWLKFqruOEjEsJs2Cqydx1rH5g/preview",
     songTitle: "Thirumangai Mannan",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1774991976&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -268,7 +269,7 @@ export const songsData = [
     sthalam: "Thirucherai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1gHG7ZZdyf3m2xv9-Eedn8BQifptxQWps/preview",
+      "https://drive.google.com/file/d/19ikuScZ6XrbtExuuBpbGGnSB6r8l-bkb/preview",
     songTitle: "Thirucherayil Arulum",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448918707&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -284,7 +285,7 @@ export const songsData = [
     sthalam: "Thirukannamangai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1AY8QYz-ZxhPviZYRV_PSSHZqCxwK7CD4/preview",
+      "https://drive.google.com/file/d/159hl2zuRW_RHhyRMM-JoKXqzg0skEgb6/preview",
     songTitle: "Kannamangayil Thavamirundha",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448865172&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -303,11 +304,12 @@ export const songsData = [
     naadu: "chozhaNaadu",
     sthalam: "Thirukannapuram",
     author: "Dr. D. Veeraragavathatham",
-    songLyrics: "",
+    songLyrics:
+      "https://drive.google.com/file/d/1nHMhd6PYT2IFYGqFbV9nwDCkL4aAhLdP/preview",
     songTitle: "Thirukannapuram",
     songURL: "",
-    songRagam: "",
-    songThalam: "",
+    songRagam: "Bhageshri",
+    songThalam: "Adi",
     songIntro: "",
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448862373&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -323,7 +325,7 @@ export const songsData = [
     sthalam: "Thirukannangudi",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1tnMUXWpnqlnBhZ9dzcFug0OR16rSb1rY/preview",
+      "https://drive.google.com/file/d/16c2ZljicPm8NwrxjjZGDTfMnFenWnvFF/preview",
     songTitle: "Kannangudi Urayum",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448853343&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -344,7 +346,7 @@ export const songsData = [
     sthalam: "Thirunaagai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1Y_XEJ9S-XSDpT4zsWmYlTG8e3VnzZ1_A/preview",
+      "https://drive.google.com/file/d/1AZyQ0pZ39ILcWiDwKCDVys6HSr8hkbZD/preview",
     songTitle: "Thirunagayil Ninra",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448801197&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -365,7 +367,7 @@ export const songsData = [
     sthalam: "Thiruthanjai Mamanikovil",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/17EmFqqfZp6m-zd8opVNAoLfDEjZA0bwj/preview",
+      "https://drive.google.com/file/d/1GxKZYygHEKu9hibeJJafBvkkjQlAislE/preview",
     songTitle: "Muthirukoilgal",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448797561&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -388,7 +390,7 @@ export const songsData = [
     sthalam: "Nadhan Kovil",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1MnFGCLcwJTCAl45s4CDZoCN1kXuwMM_y/preview",
+      "https://drive.google.com/file/d/1XQjkenPMmyT5cHO0w3xhZYX_JhHuPs-e/preview",
     songTitle: "Shenbagavanam Thannil",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448791531&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -411,7 +413,7 @@ export const songsData = [
     sthalam: "Thiruvelliyangudi",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1BiyAq-TtUCumGK1TuQNDvA_Ws7a74Om5/preview",
+      "https://drive.google.com/file/d/12hFsvMXEVt9WrDJt4S3StoaCvlYWKM6e/preview",
     songTitle: "Velliyaar Thavamirundha",
     songURL: "",
     songRagam: "Ranjani",
@@ -430,7 +432,7 @@ export const songsData = [
     sthalam: "Thiruvazhundur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1Mmg0mCdkgrLBgBTsHcXll-w0ECcBtcd6/preview",
+      "https://drive.google.com/file/d/1IEGItaU1Et9p6mQTeo2eLadiDH4Gh8F_/preview",
     songTitle: "Sengamalavalli Udanurai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448781097&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -452,7 +454,7 @@ export const songsData = [
     sthalam: "Thiruchirupuliyur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/128Kz2rqfwqWJixYLYLghKcKAzhHuNMIn/preview",
+      "https://drive.google.com/file/d/1wjNMYGZ6-5BcHqdzAzSCDHnGGAb_BF1g/preview",
     songTitle: "Sirupuliyur Urai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448740705&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -472,7 +474,7 @@ export const songsData = [
     sthalam: "Thalaichanga Naanmadhiyam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/11JlAwF6Bnah3hB4Nx9NlHHvKBb5lJwqI/preview",
+      "https://drive.google.com/file/d/1xIGS_IBdVyIwJmlBFQDYyjrP5eVApcWA/preview",
     songTitle: "Muzhumadhi Pol",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448696101&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -493,7 +495,7 @@ export const songsData = [
     sthalam: "Thiruindhaloor",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1sGC35t7WX3gEKBkmXvtZUk6YBhHQlGJD/preview",
+      "https://drive.google.com/file/d/15k0Ko7a_WvQcRLFjXsSvnN6rOcy3Y5Yj/preview",
     songTitle: "Indhaloor Urai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448690281&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -514,7 +516,7 @@ export const songsData = [
     sthalam: "Thirukaavalampaadi",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1IXUSwkZmaBBgW1ZYdq5wD2AY4nB6iumP/preview",
+      "https://drive.google.com/file/d/1BZRXSO-hSoeSMTOJKXurc-47iMV9NznP/preview",
     songTitle: "Kaavalam Paadi Ninra",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448666884&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -536,7 +538,7 @@ export const songsData = [
     sthalam: "Thirukkazhiseerama Vinnagaram",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1oYSPDzzU82Oh5xNls2mZ6_AaPT2su9-G/preview",
+      "https://drive.google.com/file/d/14Am5zhDLLJA9XCGd0dgmBpUuquMaieAA/preview",
     songTitle: "Kaazhiseerama Vinnagaram",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448596537&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -557,7 +559,7 @@ export const songsData = [
     sthalam: "Thiruarimeya Vinnagaram",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1o0VKRJisF4b2Y-aTztbg9BMov4DcxE2G/preview",
+      "https://drive.google.com/file/d/1pVpLSMsZW-YQ383oqaVxamMR9YenCgLA/preview",
     songTitle: "Ari Vandhu Meviya Thalam",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448545261&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -578,7 +580,7 @@ export const songsData = [
     sthalam: "Thiruvan Purudothamam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1fCsxkx9O2moUTauK53xE-M7j7ygtWcwB/preview",
+      "https://drive.google.com/file/d/1YC1j-8czNfDt_625jdLi7YlsnGTtK3T_/preview",
     songTitle: "Vainavar Thalaiva",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447590433&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -600,7 +602,7 @@ export const songsData = [
     sthalam: "Thiruchembonsei Kovil",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/15WBQUyvLjEXY8A7pWR4yTNyKta40ah1H/preview",
+      "https://drive.google.com/file/d/1pD4HOeDYZJrIZ5kpqyjFEvL4uH73gC65/preview",
     songTitle: "Sembon Aranganey",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1446929200&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -625,7 +627,7 @@ export const songsData = [
     sthalam: "Thirumanimaadakovil",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1SkQ45VjV26KjPoeCKXgnS0bGTxAbuH4K/preview",
+      "https://drive.google.com/file/d/1-GeBoxkZX7J7joezbSYihE0JTPU9LKu6/preview",
     songTitle: "Naangoor Thirumani",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1446942349&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -647,7 +649,7 @@ export const songsData = [
     sthalam: "Thiruvaikundhavinnagaram",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1tSRWoWvqq8ZN_dPGl6Rf2Mef8vQSSwJi/preview",
+      "https://drive.google.com/file/d/1gla_EbpxODGJ-5EEnfnMS6lkKCWzH11g/preview",
     songTitle: "Vaikuntha Vinnagaram",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1446948526&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -668,7 +670,7 @@ export const songsData = [
     sthalam: "Thiruvali-Thirunagari",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1l1oTnorZRJv4Epdm9gu_-ALO3t-arcQC/preview",
+      "https://drive.google.com/file/d/16Se2YX3kw1k-qnqjjtMHHVpVORbUC5_L/preview",
     songTitle: "Iraniyanai Vadam",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447011487&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -690,7 +692,7 @@ export const songsData = [
     sthalam: "Thirudevanaar Thogai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/14JeLJTSTmHI_4Ue8dreNydMm00n8Lw6t/preview",
+      "https://drive.google.com/file/d/1-leF4Q3SdxTvO_O0nxl4AjR7VHUise2G/preview",
     songTitle: "Devargal Koodi",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447015738&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -711,7 +713,7 @@ export const songsData = [
     sthalam: "Thiruthettri Ambalam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/15CHU4ugq80PRIu99TdNB-3JbRB6ZG1qP/preview",
+      "https://drive.google.com/file/d/1ZRphzmeU-vwVMKhhAB1w6eNAqFar8gUn/preview",
     songTitle: "Senganmaal Aranga",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447284082&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -732,7 +734,7 @@ export const songsData = [
     sthalam: "Thirumanikoodam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1jvBF169G4wDHnzBy-M073oDvzy4JrbH3/preview",
+      "https://drive.google.com/file/d/1oO4g4le5Mz19WYdHbIjlxF6inpAT7__I/preview",
     songTitle: "Thirumanikooda Varadarajane",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1666875996&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -749,7 +751,7 @@ export const songsData = [
     sthalam: "Thiruvellakulam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/16YjWDT3EGuwdjJlqjoQQq8YrvXj86GTI/preview",
+      "https://drive.google.com/file/d/1zv0MsrFbVkkW78_f1nXGOsQePSXCn5Cj/preview",
     songTitle: "Vellakulathurayum",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447678969&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -771,7 +773,7 @@ export const songsData = [
     sthalam: "Thirupaarthanpalli",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1Vyp5ybENbBvPgjK0PxCbNUWfz1w3F5f8/preview",
+      "https://drive.google.com/file/d/1dNA3cRglbbAzNlPpBJWlK2SyXTcoQSS2/preview",
     songTitle: "Paarthan Palli",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447666117&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -791,7 +793,7 @@ export const songsData = [
     sthalam: "Thiruchithrakoodam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1YsavCkIxffEokbqwKq9Q9nZC-g6sA11L/preview",
+      "https://drive.google.com/file/d/11BjhhZh7Vz_v7WyVOsjkZL7IXYeJClgp/preview",
     songTitle: "Thillai Nagar",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447598110&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -812,7 +814,7 @@ export const songsData = [
     sthalam: "Thiruvayindrapuram",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1DBd4rEQvRGhK3EVqofBaDpOz4VzbGZL0/preview",
+      "https://drive.google.com/file/d/1Euqyo3826WeMjCS7JKKLdAv_M98ghlk9/preview",
     songTitle: "Adisedan Than",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447651252&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -833,7 +835,7 @@ export const songsData = [
     sthalam: "Thirukovalur",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1MIkDwSbmoszXIng8CJwlZoE0ASyrsT1N/preview",
+      "https://drive.google.com/file/d/1hLsJNyGNE4z5MP_dDyW9DYu1NPFJA6ru/preview",
     songTitle: "Thirukkovalur Valar",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447656973&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -853,7 +855,7 @@ export const songsData = [
     sthalam: "Thirukacchi",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/13j4glnhQDKxrAonH0LLZy3lUo_UefFLI/preview",
+      "https://drive.google.com/file/d/14PDUQYTPR1OkjG3Im4pxUmUmd-Mct4UG/preview",
     songTitle: "Devaraja Sri Devaraja",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1774794519&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -869,7 +871,7 @@ export const songsData = [
     sthalam: "Attapuyakaram",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1EZQtyU4h3RTFQIGts-AqXoxpl68IGJg5/preview",
+      "https://drive.google.com/file/d/1TDDheZIJGcx_At83XV5fdpBqKD2ISAtF/preview",
     songTitle: "Ettu Puyangalil",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1440192793&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -893,7 +895,7 @@ export const songsData = [
     sthalam: "Thiruthanka",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1ZrHmewW0UoIDRfux4cLHYqIHet-7vORP/preview",
+      "https://drive.google.com/file/d/165z4Ygmn7ns-7w2LNkehkN2XdIn0HpRM/preview",
     songTitle: "Thiruthanka Urai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1440182770&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -913,7 +915,7 @@ export const songsData = [
     sthalam: "Thiruvelukkai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/10Ne_UCMDST14qEIo_pYghgqqhUPqvapD/preview",
+      "https://drive.google.com/file/d/1JAkv-bHKhiLUD41By7q3fkY1HqUL1Hgz/preview",
     songTitle: "Velukkai Amarndhan",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1440095419&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -934,7 +936,7 @@ export const songsData = [
     sthalam: "Thirukeeragam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1ArYtqKNRoRpSH3R4y7dCK9rYCDclE0FG/preview",
+      "https://drive.google.com/file/d/1REw5VFenXvGBOmsTfot4900Ddlz32Rak/preview",
     songTitle: "Aalilai Mel",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1439124463&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -957,7 +959,7 @@ export const songsData = [
     sthalam: "Thirupaadagam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1x9i88ctbB8Wemt-hMEupVzyIJbbldLWp/preview",
+      "https://drive.google.com/file/d/1fSHo3WZbEjAujHTnPyN2UxkJplo58DKk/preview",
     songTitle: "Thirupadagam Thannil",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1438809322&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -980,7 +982,7 @@ export const songsData = [
     sthalam: "Thirunilathingal Thundam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1gVjlSXG31JpbU2eABSYgkk1GYBL8Q8td/preview",
+      "https://drive.google.com/file/d/1ZS4zuC8GFVtYTXVB6QUSQVotbpfnftYb/preview",
     songTitle: "Kacchi Nagar",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1438792501&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1001,7 +1003,7 @@ export const songsData = [
     sthalam: "Thiruooragam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1lDVY7MvFEOpHxkSm5KTtJ3642TDm44gm/preview",
+      "https://drive.google.com/file/d/1sJCV4kW1_xNBtnrCkP_FThnxeAuI3xc7/preview",
     songTitle: "Madhil Kacchi",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1423653625&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1021,7 +1023,7 @@ export const songsData = [
     sthalam: "Thiruvekka",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1SNdXq-Usz6nHDzSmF_mNCXe11v1df2jw/preview",
+      "https://drive.google.com/file/d/1corrarQ4fOKsXaqomDlia9qiLvD4RNao/preview",
     songTitle: "Sonna Vannam",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1411691314&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1041,7 +1043,7 @@ export const songsData = [
     sthalam: "Thirukkaragam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1eFunTcBZvxxxzC2uqcU2VnWFRCWDMTa3/preview",
+      "https://drive.google.com/file/d/1GuAQZJJZsHqoSp8gpKgIzwcNPYf_8IAe/preview",
     songTitle: "Thirukaaraga Karunakara",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1438751362&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1061,7 +1063,7 @@ export const songsData = [
     sthalam: "Thirukkaarvaanam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1U4QF7G89DUzCj50qI9Qj_CNeuRYvnSit/preview",
+      "https://drive.google.com/file/d/1hLcUlfW8MkTjy9RpkEPlpD16g2oMxDbm/preview",
     songTitle: "Thirukkar Vaanathul",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1438581082&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1084,7 +1086,7 @@ export const songsData = [
     sthalam: "Thirukalvanoor",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1WTdk0w7_rs8yRpsXNdw61QMGKlCTnEuj/preview",
+      "https://drive.google.com/file/d/1P3R9Gm8zv-ZEgNF-YQeWlswufSyXkRbP/preview",
     songTitle: "Anjilai Valli",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1440081286&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1108,7 +1110,7 @@ export const songsData = [
     sthalam: "Thirupavalavannam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1LE7jdt-ny4QM6MLhLogQ76AFl-oBIJao/preview",
+      "https://drive.google.com/file/d/1RcMb55LYILuBK_j4g3pDU_ObBnhoWOQQ/preview",
     songTitle: "Kacchi Thannil",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1670860287&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1129,7 +1131,7 @@ export const songsData = [
     sthalam: "Thiruparamechura Vinnagaram",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1ith0Z5UT9BR-apIVUoHUKNTJi-HYttjH/preview",
+      "https://drive.google.com/file/d/1ts8dQQtemAWLK8liFYPrC1g4-nYkmObA/preview",
     songTitle: "Thirupparameswara Vinnagaram",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1460275753&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=fals",
@@ -1150,7 +1152,7 @@ export const songsData = [
     sthalam: "Thiruputkuzhi",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1cWMj5iiHLDL9E-iHuf7LtDya8FMx_Wbd/preview",
+      "https://drive.google.com/file/d/1Z3TidJmaCwmVSUcgSBd_k_QJh1xYhzu-/preview",
     songTitle: "Chadhur Buja Vijaya Ragava",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1476752368&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1171,7 +1173,7 @@ export const songsData = [
     sthalam: "Thiruninravoor",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1u2vIh_4rK4YrzNgiePBs7dypWnfignUQ/preview",
+      "https://drive.google.com/file/d/125ZqzVkvx2w2cRiAJ4zb9MFGX2sD79L0/preview",
     songTitle: "Kadal Arasanidam",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1670915361&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1193,7 +1195,7 @@ export const songsData = [
     sthalam: "Thiruevvul",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/18uOZub-NI1kaAiJOC3LNG1vwouXePSJQ/preview",
+      "https://drive.google.com/file/d/1fMwGcb0tTXa0m3gSU32YzhI_kk1koze1/preview",
     songTitle: "Evvul Kidandha Endhai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671545934&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1215,7 +1217,7 @@ export const songsData = [
     sthalam: "Thiruvallikeni",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1IfNnFwoBbbZdfTdsmWpV1NMJfGss5DzW/preview",
+      "https://drive.google.com/file/d/1fRTw18Sr7ZmSfY8cKygCNkf5n1M2HRlm/preview",
     songTitle: "Krishna Venkata Krishna",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671546402&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1237,7 +1239,7 @@ export const songsData = [
     sthalam: "Thiruneermalai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1ILtxs779nc038bL2al2ujtNl8cQTOaLw/preview",
+      "https://drive.google.com/file/d/1veOgcZlht1jV2zYlIIbUSO_FRRADQmrw/preview",
     songTitle: "Ninra Thirukkolam Kaatum",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671546447&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1257,7 +1259,7 @@ export const songsData = [
     sthalam: "Thiruvidavendhai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/19b4PzgBiCxGncqn2m1xJDUYTOGAVsOdP/preview",
+      "https://drive.google.com/file/d/1ZinmJnVDE-37g3k0MnFI7vgdkHpf7gD5/preview",
     songTitle: "Thiruvinai Idappuram Thaangiya",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671547905&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1279,7 +1281,7 @@ export const songsData = [
     sthalam: "Thirukadalmallai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1_yYMvRaZXHY2_VeX-q1rdrp-s9SnDcnt/preview",
+      "https://drive.google.com/file/d/1uokdKw8jt4Z2357yUj5t6ATs6hN7rFG9/preview",
     songTitle: "Thirukadal Mallai Sayanithavaa",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671547956&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1299,7 +1301,7 @@ export const songsData = [
     sthalam: "Thirukkadigai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1W5oY42YPNF1PpE5BatyxV2FLtrXr1wqV/preview",
+      "https://drive.google.com/file/d/1DO7ugXdv4bWnaX-h8WZmLIvyfO7FuWqe/preview",
     songTitle: "Yoga Narasimhane Nin",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671548391&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1320,7 +1322,7 @@ export const songsData = [
     sthalam: "Thirunaavaai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1tP715cKt-4paQ_aAH2IQdmGbVphKJ8PR/preview",
+      "https://drive.google.com/file/d/1RRqocwvst17t5rMPzW6K--DthUUH9ifq/preview",
     songTitle: "Thirunaavaai Valar",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671548631&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1341,7 +1343,7 @@ export const songsData = [
     sthalam: "Thiruvithuvakodu",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1SEHjiTkPlEiRNLJb6_r6hXbLOriZZbMH/preview",
+      "https://drive.google.com/file/d/1hgrpgPJar_v6DIN5Khz-Br2IE_ZhA2vK/preview",
     songTitle: "Uyya Vandha Perumale",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671548781&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1361,7 +1363,7 @@ export const songsData = [
     sthalam: "Thirukaatkarai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1SphxhTtDerJpoB2b-dySHe-_sQZTOEVJ/preview",
+      "https://drive.google.com/file/d/1-Zt_p6kok1qghenNP4Iv8wOUe8nE6QKM/preview",
     songTitle: "Vaamananaai Vandhu Moovadi",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671549423&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1382,7 +1384,7 @@ export const songsData = [
     sthalam: "Thirumoozhikalam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/12t29ZfvyqyPXcEgpseYoHtH0ns8Xl8X-/preview",
+      "https://drive.google.com/file/d/1OtU0h3HXnrHpiOimLd_DKw0jfLXHPXjA/preview",
     songTitle: "Thirumoozhi Kalathuraivai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671550902&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1404,7 +1406,7 @@ export const songsData = [
     sthalam: "Thiruvallavaazh",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/194-grnac0Ey3ze4Jl2KGTwefzIP9K7NP/preview",
+      "https://drive.google.com/file/d/16F7xs_CQjGMJujyGbjCb3bH7PBwrE3Zd/preview",
     songTitle: "Thiruvalla Vaazhil",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671551547&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1425,7 +1427,7 @@ export const songsData = [
     sthalam: "Thirukadithaanam",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
-      "https://drive.google.com/file/d/1R0sQPhVarAXpiLIppMTQCxHt1UW9Z_Hr/preview",
+      "https://drive.google.com/file/d/1R-rVW8DZo1zFwB3rKjoO434jQAeQkfuq/preview",
     songTitle: "Thirukadithaana Arpudha Naranaa",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1726175181&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1445,12 +1447,13 @@ export const songsData = [
     naadu: "malaiNaadu",
     sthalam: "Thiruchenkunrur",
     author: "Dr. D. Veeraragavathatham",
-    songLyrics: "",
+    songLyrics:
+      "https://drive.google.com/file/d/1H3OlVSqrg-ISs-0L4fnR23y5syMeLFgg/preview",
     songTitle: "Imayavarappan",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773796218&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Dharbaar",
-    songThalam: "",
+    songThalam: "Adi",
     songIntro:
       "<span><p>The 71st DD is Thiruchenkunrur can be reached from Thiruvalla by bus. From Thiruvananthapuram to Ernakulam via Kollam there is a railway station Chenkannur. From this station one can reach the temple.</p><br/><p>The presiding deity is Imayavar Appan. Thaayaar's name is Senkamalavalli. Thiruchitraaru is the river that flows near this shrine.</p><br/<p>During Mahabharatha war King Dharma told a lie that Ashvathama, son of Dhrona, died hiding the fact that an elephant in the name Ashvathama died. When Dhrona heard this he was much upset and put down his bow and arrows. He was defeated  and  killed in the war. To do the prayachitha for the sin committed king Dharma came to this forest and performed Thapa. He also renovated the temple for Mahavishnu here and performed Pooja. Since Lord Mahavishnu was considered as father of Devas in this shrine his name goes as இமையவர் அப்பன். Nammazhwaar praised this shrine in 10 paasurams. Adiyen composed a krithi on this lord tuned to ragam Dharbaar. Please listen and enjoy.</p></span>",
     songTunedLike: "",
@@ -1464,12 +1467,13 @@ export const songsData = [
     naadu: "malaiNaadu",
     sthalam: "Thirupuliyur",
     author: "Dr. D. Veeraragavathatham",
-    songLyrics: "",
+    songLyrics:
+      "https://drive.google.com/file/d/1GjeFnHrBf9UFbi35aGVMz2wJcci4dsk_/preview",
     songTitle: "Kuttanaadenum",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773797505&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Saranga",
-    songThalam: "",
+    songThalam: "Adi",
     songIntro:
       "<span><p>Dear all, in our musical journey to DDs let us proceed to 72nd DD திருப்புலியூர் (a) குட்டநாடு. From Thiruchenkunnur one can travel by bus to reach this shrine.</p><br/><p>Once upon a time when King Vrishadharbi, son of Sibi Chakravarty, had a serious disease and the country also had severe poverty. When Saptha Rishis visited his country, he demanded that if they make the country to flourish he would give the great Dhaana to them. Agitated Rishis refused that. So the king became angry and performed a yaga from which one ferocious Devatha came to kill the Rishis. When the Rishis prayed to Mahavishnu, he ordered Lord Indra to destroy that devatha. Indra came in the form of a tiger and destroyed him.</p><br/><p>Presiding Deity is Mayapiran and Thaayaar's name is Porkodi Naachiaar. Among the Pancha Pandavas, Bhima renovated this shrine. Among Aazhwars, Nammazhwar has praised this Deity in 11 Pasurams. Thirumangai Aazhwaar praised this Deity in his Siriya Thirumadal. Adiyen composed a krithi on this shrine, tuned to ragam Saaranga (சாரங்கா) and sang with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "",
@@ -1480,12 +1484,13 @@ export const songsData = [
     naadu: "malaiNaadu",
     sthalam: "Thiruvaaranvilai",
     author: "Dr. D. Veeraragavathatham",
-    songLyrics: "",
+    songLyrics:
+      "https://drive.google.com/file/d/1yv69qR9ZD5Ka63iPik6115-x_PfUA2Ja/preview",
     songTitle: "Thiruvaaranvilai Urai",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773801957&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Rathipathipriya",
-    songThalam: "",
+    songThalam: "Adi",
     songIntro:
       "<span><p>Dear all, we will now travel through our musical journey to 73rd DD திருவாறன்விளை (ஆரம்முளா). It is situated at a distance of about 10km from Chenkannur, Keral.</p><br/><p>During the Mahabharatha period, when Pandavaas were in the forest to hide and live they came to this place. Arjuna kept his Bows and arrows under a vanni tree and buried them so that nobody could see. During the war as directed by Krishna, Arjuna killed Karna when he was in distress because the wheel of his chariot got stuck in to the soil. To do the prayachitha for that deed, Arjuna came back to this place again and performed Thapa praying to Lord Mahavishnu. He renovated the temple here and worshipped the Lord.</p><br/><p>Brahma had also expressed his gratitude at this shrine because Vishnu had killed the asuras Madhu and Kaidapa and got the Vedas back, and Vishnu appeared as திருக்குறளப்பன் in answer to the prayers of Brahma.<p>The presiding deity is திருக்குறளப்பன். Thaayaar's name is Padmasani Thaayaar. Nammaazhvar has praised this Lord in 11 paasurams. Adiyen composed a krithi on this shrine tuned to ragam ரதிபதிப்ரியா. I have sung this song along with my wife Mrs. Amutha and my daughter Mrs. Hema. Please listen and enjoy 🙏</p></span>",
     songTunedLike: "",
@@ -1500,7 +1505,8 @@ export const songsData = [
     naadu: "malaiNaadu",
     sthalam: "Thiruvanvandoor",
     author: "Dr. D. Veeraragavathatham",
-    songLyrics: "",
+    songLyrics:
+      "https://drive.google.com/file/d/1tbfXxZoA5JZRx0KreK-MOCuJUtf2DW1K/preview",
     songTitle: "Thiruvanvandoor Selveno",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802245&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1512,6 +1518,46 @@ export const songsData = [
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802290&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802287&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+    ],
+  },
+  {
+    id: "75",
+    category: "Malai Naatu Thirupathigal",
+    naadu: "malaiNaadu",
+    sthalam: "Thiruvananthapuram",
+    author: "Dr. D. Veeraragavathatham",
+    songLyrics:
+      "https://drive.google.com/file/d/1SHWdj0LggLf1_pRhWLc3AfsLpWGjnzHL/preview",
+    songTitle: "Bhujanga Sayana",
+    songURL:
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1783491294&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    songRagam: "Neelambari",
+    songThalam: "Adi",
+    songIntro:
+      "<span><p>Dear all, We will now travel to 75thDD திருவனந்தபுரம் through our musical journey. It can be reached by train from cities like Chennai, Bengaluru, Madurai. This shrine was supposed to have been established on the first day of beginning of Kaliyuga. Once Saint Dhivakara of Thulu region of Malayala Desam performed Thapa to see the Sheerapthi nadhan viz., Mahavishnu in Paarkadal. Appreciating his prayer Mahavishnu appeared before himas a two years old boy baby. Upon seeing the beauty of the child the saint requested the child to be with him. The child accepted with a condition that so far he is not disturbed he will stay with the saint.</p><p>One day the child took a saligram of saint's Pooja put in his mouth and bit. On seeing this the saint was angry and tried to beat the child. The child ran away from him and entered into a forest . The saint ran behind him into the forest but couldn't locate the child. Finally on the big hole of an iluppai tree he found the child. When he tried to catch hold of child the tree suddenly fell down and the child changed as Anandha Sayana Perumal who grew broad so that the head portion was 3 miles away from the port of Ananthapuram while leg portion was 5 miles away at Thiruppapuram. The body portion was at Thiruvanathapuram.</p><p>Upon seeing this huge stature of Mahavishnu the saint was surprised and frightened. Based on his request Mahavishnu constricted his size and appeared before him.Prohithas of Thulu descendants are still performing the poojas in the temple. Another Namboothiri saint was worshipping the lord every day. One day when he couldn't find anything to offer to Lord Mahavishnu he plucked a few raw mango fruits placed on a coconut shell and offered. This practice is still continued in the regular Pooja of the temple even today. This shrine was renovated a few times and still descendants of Raja Marthanda Varma are administering the temple. Swami Nammaazhvar praised this shrine in 11 paasurams. Perumal name is Anandha Padma Naaban while Thaayaar is Shree Hari Lakshmi.</p><p>One can make dharshan of the lord as three portion of the long stature of him as Head (திருமுடி)chest and naabi and feet (திருவடி).</p><p>Adiyen composed a krithi on this lord tuned to ragam நீலாம்பரி sang with my wife Mrs Amutha .Please listen and enjoy 🙏</p></span>",
+    songTunedLike: "",
+    additionalSongs: [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1783491291&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    ],
+  },
+  {
+    id: "76",
+    category: "Malai Naatu Thirupathigal",
+    naadu: "malaiNaadu",
+    sthalam: "Thiruvattaru",
+    author: "Dr. D. Veeraragavathatham",
+    songLyrics:
+      "https://drive.google.com/file/d/1xGXL4qzyIuH9Jpm_bDlqJ9j526M_Y9Me/preview",
+    songTitle: "Vaataatru Adikesava",
+    songURL:
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1838165184&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    songRagam: "Malaya Maarutham",
+    songThalam: "Roopaka",
+    songIntro:
+      "<span><p>Dear all, Let us continue our musical journey to reach 76th DD திருவட்டாறு.It is in between the rivers Gotha and Parali in Kalkulam taluk of Kanyakumari district.Bus services are available from Nagercoil and Thiruvananthapuram to reach this shrine. In Bramanda puranam, Garuda puranam Paadhmapuranam details of this divyadesam are available. While Thiruvananthapuram was established on 950th day of start of Kaliyuga this shrine was supposed to have been there about 1284 years before Thiruvanantha puram</p><p>In Dwapara Yuga when Hadhaleya son of Rishi Somayasi was asked about his parents by a Devakumara he replied showing two banana trees that they were his parents. Devakumaran found this as a funny reply and started laughing. Suddenly from the two banana trees Mahavishnu and Mahalakshmi appeared took the child on their lap, preached him Ashtacharam and kept him nearby Perumal's Thirumudi.</p><p>Moolavar is known by the name Adhikesavan. Thayar name is Maragadhavalli Nachiyar. Swami Nammaazhvar has praised this shrine in eleven Pasurams.</p><p>Adiyen composed a krithi on this lord tuned to the ragam 'மலைய மாருதம்' and sang with my wife Mrs Amutha. A few other songs in this ragam are also shown. Please listen and enjoy.</p></span>",
+    songTunedLike: "",
+    additionalSongs: [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1838165190&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     ],
   },
 ];

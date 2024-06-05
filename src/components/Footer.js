@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="items-center justify-center break-words xs:text-xs sm:text-sm md:text-md lg:text-lg xl:text-lg bold title-font text-white">
           © Dr. D. Veeraragavathatham
         </div>
-        <div className="items-center justify-center break-wordsxs:text-xs sm:text-sm md:text-md lg:text-lg xl:text-lg bold title-font text-white">
+        <div className="items-center justify-center break-words xs:text-xs sm:text-sm md:text-md lg:text-lg xl:text-lg bold title-font text-white">
           {getCurrentYear()} - All rights reserved
         </div>
       </div>
