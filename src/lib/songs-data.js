@@ -236,9 +236,10 @@ export const songsData = [
     songLyrics:
       "https://drive.google.com/file/d/1n7A_sR6S_lVFr-48CImmSGy5SXOCXSRy/preview",
     songTitle: "Thiruvinnagar Ennum",
-    songURL: "",
+    songURL:
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1838195571&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     songRagam: "Anandha Bhairavi",
-    songThalam: "Adi",
+    songThalam: "Aadi",
     songIntro: "<span></span>",
     songTunedLike: "",
   },
@@ -307,9 +308,10 @@ export const songsData = [
     songLyrics:
       "https://drive.google.com/file/d/1nHMhd6PYT2IFYGqFbV9nwDCkL4aAhLdP/preview",
     songTitle: "Thirukannapuram",
-    songURL: "",
+    songURL:
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1838192901&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     songRagam: "Bhageshri",
-    songThalam: "Adi",
+    songThalam: "Aadi",
     songIntro: "",
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448862373&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -415,7 +417,8 @@ export const songsData = [
     songLyrics:
       "https://drive.google.com/file/d/12hFsvMXEVt9WrDJt4S3StoaCvlYWKM6e/preview",
     songTitle: "Velliyaar Thavamirundha",
-    songURL: "",
+    songURL:
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1838190618&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     songRagam: "Ranjani",
     songThalam: "Aadi",
     songIntro:
@@ -1453,7 +1456,7 @@ export const songsData = [
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773796218&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Dharbaar",
-    songThalam: "Adi",
+    songThalam: "Aadi",
     songIntro:
       "<span><p>The 71st DD is Thiruchenkunrur can be reached from Thiruvalla by bus. From Thiruvananthapuram to Ernakulam via Kollam there is a railway station Chenkannur. From this station one can reach the temple.</p><br/><p>The presiding deity is Imayavar Appan. Thaayaar's name is Senkamalavalli. Thiruchitraaru is the river that flows near this shrine.</p><br/<p>During Mahabharatha war King Dharma told a lie that Ashvathama, son of Dhrona, died hiding the fact that an elephant in the name Ashvathama died. When Dhrona heard this he was much upset and put down his bow and arrows. He was defeated  and  killed in the war. To do the prayachitha for the sin committed king Dharma came to this forest and performed Thapa. He also renovated the temple for Mahavishnu here and performed Pooja. Since Lord Mahavishnu was considered as father of Devas in this shrine his name goes as இமையவர் அப்பன். Nammazhwaar praised this shrine in 10 paasurams. Adiyen composed a krithi on this lord tuned to ragam Dharbaar. Please listen and enjoy.</p></span>",
     songTunedLike: "",
@@ -1473,7 +1476,7 @@ export const songsData = [
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773797505&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Saranga",
-    songThalam: "Adi",
+    songThalam: "Aadi",
     songIntro:
       "<span><p>Dear all, in our musical journey to DDs let us proceed to 72nd DD திருப்புலியூர் (a) குட்டநாடு. From Thiruchenkunnur one can travel by bus to reach this shrine.</p><br/><p>Once upon a time when King Vrishadharbi, son of Sibi Chakravarty, had a serious disease and the country also had severe poverty. When Saptha Rishis visited his country, he demanded that if they make the country to flourish he would give the great Dhaana to them. Agitated Rishis refused that. So the king became angry and performed a yaga from which one ferocious Devatha came to kill the Rishis. When the Rishis prayed to Mahavishnu, he ordered Lord Indra to destroy that devatha. Indra came in the form of a tiger and destroyed him.</p><br/><p>Presiding Deity is Mayapiran and Thaayaar's name is Porkodi Naachiaar. Among the Pancha Pandavas, Bhima renovated this shrine. Among Aazhwars, Nammazhwar has praised this Deity in 11 Pasurams. Thirumangai Aazhwaar praised this Deity in his Siriya Thirumadal. Adiyen composed a krithi on this shrine, tuned to ragam Saaranga (சாரங்கா) and sang with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "",
@@ -1490,7 +1493,7 @@ export const songsData = [
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773801957&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Rathipathipriya",
-    songThalam: "Adi",
+    songThalam: "Aadi",
     songIntro:
       "<span><p>Dear all, we will now travel through our musical journey to 73rd DD திருவாறன்விளை (ஆரம்முளா). It is situated at a distance of about 10km from Chenkannur, Keral.</p><br/><p>During the Mahabharatha period, when Pandavaas were in the forest to hide and live they came to this place. Arjuna kept his Bows and arrows under a vanni tree and buried them so that nobody could see. During the war as directed by Krishna, Arjuna killed Karna when he was in distress because the wheel of his chariot got stuck in to the soil. To do the prayachitha for that deed, Arjuna came back to this place again and performed Thapa praying to Lord Mahavishnu. He renovated the temple here and worshipped the Lord.</p><br/><p>Brahma had also expressed his gratitude at this shrine because Vishnu had killed the asuras Madhu and Kaidapa and got the Vedas back, and Vishnu appeared as திருக்குறளப்பன் in answer to the prayers of Brahma.<p>The presiding deity is திருக்குறளப்பன். Thaayaar's name is Padmasani Thaayaar. Nammaazhvar has praised this Lord in 11 paasurams. Adiyen composed a krithi on this shrine tuned to ragam ரதிபதிப்ரியா. I have sung this song along with my wife Mrs. Amutha and my daughter Mrs. Hema. Please listen and enjoy 🙏</p></span>",
     songTunedLike: "",
@@ -1532,7 +1535,7 @@ export const songsData = [
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1783491294&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     songRagam: "Neelambari",
-    songThalam: "Adi",
+    songThalam: "Aadi",
     songIntro:
       "<span><p>Dear all, We will now travel to 75thDD திருவனந்தபுரம் through our musical journey. It can be reached by train from cities like Chennai, Bengaluru, Madurai. This shrine was supposed to have been established on the first day of beginning of Kaliyuga. Once Saint Dhivakara of Thulu region of Malayala Desam performed Thapa to see the Sheerapthi nadhan viz., Mahavishnu in Paarkadal. Appreciating his prayer Mahavishnu appeared before himas a two years old boy baby. Upon seeing the beauty of the child the saint requested the child to be with him. The child accepted with a condition that so far he is not disturbed he will stay with the saint.</p><p>One day the child took a saligram of saint's Pooja put in his mouth and bit. On seeing this the saint was angry and tried to beat the child. The child ran away from him and entered into a forest . The saint ran behind him into the forest but couldn't locate the child. Finally on the big hole of an iluppai tree he found the child. When he tried to catch hold of child the tree suddenly fell down and the child changed as Anandha Sayana Perumal who grew broad so that the head portion was 3 miles away from the port of Ananthapuram while leg portion was 5 miles away at Thiruppapuram. The body portion was at Thiruvanathapuram.</p><p>Upon seeing this huge stature of Mahavishnu the saint was surprised and frightened. Based on his request Mahavishnu constricted his size and appeared before him.Prohithas of Thulu descendants are still performing the poojas in the temple. Another Namboothiri saint was worshipping the lord every day. One day when he couldn't find anything to offer to Lord Mahavishnu he plucked a few raw mango fruits placed on a coconut shell and offered. This practice is still continued in the regular Pooja of the temple even today. This shrine was renovated a few times and still descendants of Raja Marthanda Varma are administering the temple. Swami Nammaazhvar praised this shrine in 11 paasurams. Perumal name is Anandha Padma Naaban while Thaayaar is Shree Hari Lakshmi.</p><p>One can make dharshan of the lord as three portion of the long stature of him as Head (திருமுடி)chest and naabi and feet (திருவடி).</p><p>Adiyen composed a krithi on this lord tuned to ragam நீலாம்பரி sang with my wife Mrs Amutha .Please listen and enjoy 🙏</p></span>",
     songTunedLike: "",
