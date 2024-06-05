@@ -52,7 +52,8 @@ export const songsData = [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448945995&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Bhairavi",
     songThalam: "Misra Chaapu",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>Dear all, the 3rd Divya Desam is Thirukarambanur. This shrine is situated about 4 kms North of Trichy on the banks of Kollidam. It is about a mile away from Sri Rangam. Brammanda Puranam talks about this shrine.</p><p>When Shiva was angry and removed Lord Brahma's fifth head, he was affected by Brahmahatti Dosha and the skull got stuck on his hand. Lord Shiva wandered around seeking Biksha in the skull. But the rice received as Biksha kept disappearing due to the sin committed by him. When Shiva came to this shrine and asked for Biksha, Goddess Lakshmi gave the Biksha rice and the skull remained full. Hence, Lakshmi in this shrine is known as Poornavathi Thaayar. Brahma came to this shrine and worshipped Lord Vishnu who appeared to him as Kathamba tree. All the three Gods - Brahma, Vishnu and Shiva can be worshipped in this temple. Thirumangai Aazhwar and an Aachariar named Pillai Perumal Iyengar have praised this shrine.</p><p>Adiyen composed a krithi on Lord Purushothaman, tuned it to ragam Bhairavi and sung along with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "Keesu Keesu Endrengum",
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448945998&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -182,7 +183,7 @@ export const songsData = [
     songTitle: "Valvil Ramanai Panivaai",
     songURL: "",
     songRagam: "Thilang",
-    songThalam: "",
+    songThalam: "Aadi",
     songIntro:
       "<span>The 10th  Vaishnava Divya desam is Thiru Pullam Boothankudi. The presiding deity is Val vil Raman. From  Kabisthalam one has to travel 3 miles towards east and reach a village  Andakkudi from where towards north 2 miles via Koonancheri.</span>",
     songTunedLike: "Shanthi Nilava Vendum",
@@ -240,7 +241,8 @@ export const songsData = [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1838195571&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     songRagam: "Anandha Bhairavi",
     songThalam: "Aadi",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>This shrine is situated about 3.5 miles away from Kumbakonam. Markandeya, son of Rishi Mirugandu prayed to Lord Vishnu that Mahalakshmi has to come as his daughter on earth and he has to giver her away as the bride to Lord Vishnu so that Mahavishnu himself will become his son-in-law. When he was performing a Thapa at this shrine, goddess Lakshmi appeared as a small baby underneath the Thulasi bush. On a Thiruvonam star, Mahavishnu came in a disguise as an old man and asked Markandeya to give him his daughter in marriage. Without knowing that the old man was none other than Vishnu, Markandeya told his daughter is too young and she does not even know the amount of salt to add when cooking food. If she forgets to add salt to her husband's cooked food, he may get angry. Upon hearing this the old man replied that he was even prepared to eat saltless food if it were cooked by his daughter, and that he definitely wanted to marry her. When Markandeya prayed to Lord Vishnu, Vishnu appeared before him and said that it was him in the disguise of an old man. Rishi Markandeya was happy to give his daughter's hand in marriage to Lord Vishnu.<p>As a custom, till this day, Prasadham at this shrine is cooked without salt. The deity is known as Uppiliappan. Thaayar Mahalakshmi is in the form of Bhoomidevi. This shrine was praised by Nammazhwar in 11 paasurams, by Thirumangaiazhwar in 34 paasurams, Poigaiaazhwar in 1 paasuram and Peyazhwar in 2 paasurams.</p></p><p>Adiyen composed a krithi on this shrine and tuned to ragam Anandabhairavi and sang with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "",
   },
   {
@@ -255,7 +257,7 @@ export const songsData = [
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1774991976&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Hamsadhwani",
-    songThalam: "",
+    songThalam: "Aadi",
     songIntro:
       "The 14th Vaishnava Divya desam is  Thiru Naraiyur (a) Naachhiyaar koil.This sthalam is situated in the route of Kumbakonam to Thiruvaarur about 4 miles away from Kumbakonam. The presiding deity is Srinivaasan (a)Thiru Naraiyur Nambi.Thaayaar's name is Vanjulavalli.",
     songTunedLike: "",
@@ -267,16 +269,17 @@ export const songsData = [
     id: "15",
     category: "Chozha Naatu Thirupathigal",
     naadu: "chozhaNaadu",
-    sthalam: "Thirucherai",
+    sthalam: "Thiruserai",
     author: "Dr. D. Veeraragavathatham",
     songLyrics:
       "https://drive.google.com/file/d/19ikuScZ6XrbtExuuBpbGGnSB6r8l-bkb/preview",
-    songTitle: "Thirucherayil Arulum",
+    songTitle: "Thiruserayil Arulum",
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448918707&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Hindolam",
     songThalam: "Aadi",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>Dear all, Thiruserai, the 15th Divya Desam is situated between Thirunarayur and Kudavasal. Buses from Kumbakonam to Thiruvaroor will stop in three shrines namely Thirunarayur, Thiruserai and Thirukannamangai.</p><p>When Brahma wanted to save the Vedas in a pot, he could not succedd when he collected mud from different places to prepare a pot. Then he prayed to Lord Mahavishnu who advised him to prepare a pot from Thiruserai. With the mud from Thiruserai, Lord Brahma succeeded in preparing the pot and also saving the Vedas.</p><p>Once Ganga and Cauvery argued over who is the grater of the two. They approached Lord Brahma who gave the judgement that Ganga is the greater river as she was from the abhishega theetham of his poojs of Lord Vishnu's feet. Cauvery was sad and performed a thapa on Mhavishnu. Lord Mahavishnu appeared before her as a small child. Cauvery recognized he was Vishnu and prayed to him so she can be greater than Ganga. Lord Vishnu promised that he will stay in the hands of Cauvery during the Thretha Yugam. When King Vibishana placed Renganatha in the banks of Cauvery, he stayed there on the banks of Cauvery without going with King Vibishana. With this, Cauvery received greatness over Ganga.</p><p>The presiding deity is Saranathaperumal and Thaayar is known by the name Saranayaki.</p><p>Adiyen composed a krithi on this shrine tuned to the ragam Hindolam and sang with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "Nambi Kettavar Evarayya",
   },
   {
@@ -292,7 +295,8 @@ export const songsData = [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448865172&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Behaag",
     songThalam: "Aadi",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>Dear all, the 16th Divya Desam Thirukannamangai is situated about 5miles between Thiruserai and Thiruvarur. When Lakshmi came out of Paarkadal, she was feeling shy to look at Lord Vishnu who was actually churning Paarkadal. So she came to this place and started performing thapa on Vishnu. Praising the thapa of Lakshmi, Lord Vishnu gave the letter of an auspicious date for marriage through his warrior Vishwaksena. On that date all the Devas came with Mahavishnu to this shrine and witnessed the marriage between Lakshmi and Mahavishnu. The Devas wanted to stay and witness the marriage day every year. So they took the form of honeybees and stayed in a bee hive here permanently.</p><p>The presiding deity is Bhakthavathsalam Perumal (or) Battharavi Perumal. Thayar name is Kannamangai Nayaki.</p><p>Thirumangai Azhwar praised this Lord in 14 paasurams. Kannamangaiandan was one of the disciples of Naadhamuni (the compiler of the Naalyira Divya Prabhandam). When he performed the bhajan of Prabandhan, he became a dog and ran into the Moolasthaanam of this shrine and embraced the Lord as a fire on a Thiruvona Star of the Tamil month of Aani.</p><p>Poet Kalamegar praised the beauty of this Lord in his poems as a beautiful blue hill and blue sea.</p><p>Adiyen composed a krithi on this Lord tuned to ragam Behaag and sang with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "Behaag Thillana",
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448865181&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -354,7 +358,8 @@ export const songsData = [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448801197&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Mohanam",
     songThalam: "Aadi",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>Dear All, Thirunaagai (a) Nagapattinam is the 19th Divya Desam and one can take a bus from Mayiladuthurai and get off very close to the temple.</p><p>This shrine was praised in Brammanadapuranam and was to supposed to be in all the four yugas.</p><p>Prince Duruva was performing thapa and received the grace of this Lord. The pesiding deity is Neelamegaperumal. Urchavar is SoudaryaRajan. Thaayar name is Soundharyavalli</p><p>The primary disciple who performed pooja on this Lord is Adiseshan. All the three postures of the Lord namely standing, sitting and lying postures are shown to Nagarajan. Since the King of Snakes, Nagaraj, worshipped Lord Vishnu, this shrine was named as Nagapattinam or Thirunaagai.</p><p>Thirumangai Azhwar praised this Lord in 10 paasurams. He was much fascinated by the handsome appearance of Lord which he expressed in his paasurams.</p><p>Adiyen composed a Krithi on this Lord and tuned to ragam Mohanam and sang with my wife Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "Sada Palaya",
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1448801236&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -864,7 +869,8 @@ export const songsData = [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1774794519&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Brindavana Saranga",
     songThalam: "Aadi",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>This shrine is situated in the Kancheepuram town at Chinnakancheepuram. It was praised in Paadmapuranam.</p><p>Once when Lord Brahma wanted to perform yagna without Saraswathi's participation, Saraswathi tried to stop the yagna by taking the form of a river named Vegavathi. To protect the yagna, Lord Mahavishnu took the form of a dam and stopped the river from destroying the yagna. Then Saraswati realized her mistake and prayed to Lord Mahavishnu. The yagna was completed successfully and Lord Vishnu gave the Varaas to all Devas. So he was known as Varadarajan. Iravatha, the elephant in DevaLoka became the hillock Atthigiri. Lord Devaraja or Varadaraja stood on that hillock and gave darshan to all.</p><p>Lord Varadharajan is also known as Devarajan and Perarulaalan. Thaayar name is Perundevi Thaayar.</p><p>So many Aachariars lived here. Among them Thirukkachi Nambi was the one who performed 'Aalavatta Sevai' to Lord Varadha, using a stick fan to drive away the sweat. Lord Varadha used to appear as a boy and talk to Thirukkachi Nambi regularly. Saint Ramanujar stayed in this Sthalam and learned the Veda. Swami Vedantha Desikan stayed here and performed service and composed a lot of slokas and paasurams on Lord Varadharaja</p><p>Adiyen composed a krithi on this shrine, tuned to the ragam Brindavana Saranga and sung the same along with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
     songTunedLike: "Rangaraja Sri Rangaraja",
   },
   {
@@ -1012,7 +1018,8 @@ export const songsData = [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1423653625&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Panduvarali",
     songThalam: "Roopaka",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>Dear all, let us enter the 50 th Divyadesam திருஊரகம் through our musical journey. It is situated inside the Kaancheepuram town in front of Kaamaatchi Amman temple in the midst of four Raja veedhis. The original name is திருஉரகம் - உரகம் means snake as lord Aadhiseshan came here to give dharshan to King Mahabali was then modified in to திருஊரகம். Three other Divyadesams namely Thiruneeragam, Thirukaaragam, Thirukaarvaanam are situated in the same premises as separate sannithis but considered as separate Divyadesams.</p><p>The puraana goes as follows: When Mahabali in Pathaala loga was yearning to see the full stature of Thiruvikrama, (as he could see only the feet of God in paathaala loga) he was asked to go to Kaanchi and perform thapa. When he did thapa and prayed Lord Thiruvikrama showed His full figure at this place.He also got the blessings of Lord Aadhiseshan who gave dharshan showing his full figure to Mahabali.</p><p>The moolavar is known by the name Ulagalandha perumal while Urchavar is known Peragathaan. The shrine of Aadhiseshan is called Peragam and Aadhiseshan is known by the name Uragathaan. Thaayaar name is Amuthavalli Naachiaar. Thirumangai Aazhvaar and Thiru mazhisai Aazhvaar praised this shrine in their paasurams.</p><p>Adiyen composed a krithi on this shrine and sang as a song with my wife Mrs Amutha in the raagam பந்து வராளி. A few other songs are also given which you may listen and enjoy and see their similarities.🙏</p></span>",
     songTunedLike: "Appa Rama Bhakthi",
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1423653631&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1032,7 +1039,8 @@ export const songsData = [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1411691314&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Jana Sammohini",
     songThalam: "Aadi",
-    songIntro: "<span></span>",
+    songIntro:
+      "<span><p>In our musical journey to Divyadesams we are now going to see the 51st DD Thiruvekka.</p><p>This shrine is situated in Kancheepuram itself near Attapuyakaram shrine. In this shrine Thirumazhisai aazhwaar stayed for some period. He had a disciple by name Kanikannan who was a devotee of Perumal composing and singing songs on Him. When Pallava king came to know about this he called Kanikannan and requested him to sing a song in praise of him. But Kanikannan refused. So the King ordered him to get out of Kanchi. When Kanikannan informed this to Thirumazhisai aazhwaar he prayed the Lord and informed Him that he is also leaving Kanchi with Kanikannan and hence the Lord may also kindly accompany them by rolling his serpent mat Aadhiseshan. Lord Mahavishnu immediately responded to Aazhwaar's request and left Kancheepuram along with them. When Mahavishnu started leaving with his devotees Mahalakshmi also also joined with them. The entire Kanchi lost it's glory and became dark.</p><p>When the King saw that the temple without the idols of the Lord and the glory of the entire city had disappeared he realised his mistake and went in search of Kanikannan and Thirumazhisai aazhwaar. After meeting them the King apologised for his wrond deed and requested the to return to Kancheepuram. Again Thirumazhisai aazhwaar prayed to Lord Mahavishnu to come back to Kancheepuram along with them and again lie on the serpent mat Aadhiseshan. Lord also obliged to Aazhwaar' s prayer and in a hurry He spread his serpent mat in opposite direction with the result He kept his head on his left side and legs on his right side. One can see this changed lying posture of the Lord in this shrine. Since he had done what Thirumazhisai aazhwaar told him to do he is known by the name Yathothkari in Sanskrit and Sonna vannam seitha perumal in Tamil. Thaayaar name is Komalavalli. This shrine is the birth place of Poigai aazhwar who was seen on a lotus flower in a pond here.</p><p>Adiyen composed a Krithi on this Lord and sang in a raagam known as Jana Sammohini along with my wife Mrs Amutha.</p></span>",
     songTunedLike: "Govinda Ninne Namave Chandha",
     additionalSongs: [
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1411691326&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
@@ -1514,7 +1522,7 @@ export const songsData = [
     songURL:
       "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802245&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
     songRagam: "Jonpuri",
-    songThalam: "",
+    songThalam: "Aadi",
     songIntro:
       "<span>Dear all, our musical journey is now towards 74th DD. It is situated about three and half miles North of Chenkannur viz., in between Chenkannur and Thiruvella on the route of Erimelikkarai on the northern side of river Pamba.</p><br/><p>The purana goes like this: Once there was an argument between Brahma and saint Naradha when Brahma cursed him to go to Booloka. So he got down from Sathyaloka and reached this place where he performed Thapa. When Lord Mahavishnu appeared before him Naradha asked about the basis of creation of life. Lord Mahavishnu explained and Naradha understood that every living and non living thing comes from Narayana only who is the sole creator of the Universe. So Naradha wrote this as Naratheya purana. Among the Pancha Pandavas who came to this place Nakula worshipped this Lord and renovated the temple.</p><br/><p>The presiding deity is கமலநாதன் (a) பாம்பணையப்பன். Thaayaar's name is கமலவல்லி நாச்சியார். Nammaazhvar has praised this Lord in 10 paasurams. Adiyen composed a krithi on this shrine tuned to raagam ஜோன்புரி sang with my wife Mrs. Amutha. Please listen and enjoy 🙏</p></span>",
     songTunedLike: "",

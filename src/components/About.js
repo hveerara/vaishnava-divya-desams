@@ -17,18 +17,16 @@ export default function About() {
         <div className="text-justify tracking-wide pt-10 ml-10 mr-10 xs:text-lg sm:text-lg md:text-xl lg:text-2xl xl:text-2xl leading-loose">
           <p className="mb-5">
             The author, Dr. D. VEERARAGAVATHATHAM, Ph.D. (Horticulture) is the
-            son of Srirangam Kodikannikathanam Desikathathachary and is a
-            retired Dean of Horticultural College in Tamil Nadu Agricultural
-            University, India.
+            son of Smt. Lakshmi Ammal and Srirangam Kodikannikathanam
+            Desikathathachary. He is a retired Dean of Horticultural College in
+            Tamil Nadu Agricultural University, India.
           </p>
           <p className="mb-5">
             From his childhood days, he had a passion for Indian music, both
-            Classical Carnatic and Indian film music. His mother, late Smt.
-            Lakshmi Ammal, was a Carnatic Music disciple of music legend Sattur
-            A.G. Subramania Iyer. She regularly performed in gatherings and
-            celebrations. The author grew up listening to her and learning from
-            her. Right from early days, he had a passion to identify the ragas
-            of Carnatic songs and film songs based on Carnatic music.
+            Classical Carnatic and Indian film music. His mother, was a Carnatic
+            Music disciple of music legend Sattur A.G. Subramania Iyer. She
+            regularly performed in gatherings and celebrations. The author grew
+            up listening to her.
           </p>
           <p className="mb-5">
             The author regularly listened to katcheris of great legends like
@@ -40,6 +38,16 @@ export default function About() {
             instrumental artists of Harmonimum, Mridhangam, Thabela at Varadarja
             Perumal Koil, P. N. Pudur, Coimbatore, and also regularly
             participated in bhajans and Naamavali renditions.
+          </p>
+          <p className="mb-5">
+            Right from early days, he had a passion to identify the ragas of
+            Carnatic songs and film songs based on Carnatic music. Although he
+            did not learn music the formal way, his passion for music has led
+            him to experiment and learn to sing in different ragas. The author
+            sincerely apologizes in advance for any mistakes he has made in the
+            presentation of the Carnatic ragams, thalams and other necessary
+            elements of music as part of his recordings presented in this
+            website.
           </p>
           <p className="mb-5">
             During the pre-covid period, when he traveled to certain temples in
@@ -55,10 +63,11 @@ export default function About() {
           <p className="mb-5">
             The music on this website started as a project when the author's
             wife Smt. Amudha suggested he write Krithis on Perumals of 108 Divya
-            Desams. His daughter Smt. Hema suggested incorporating the name of
+            Desams highlighting the sthala puranas and the Thaayars of these
+            shrines. His daughter Smt. Hema suggested incorporating the name of
             the ragam towards the end of the song and his name as a musical
             signature. Then he started singing along with his wife Smt. Amudha
-            and sharing the recording and the sthala puranam in whatsapp with
+            and sharing the recordings and the sthala puranams in whatsapp with
             his family and friends. Based on the positve feedback he received
             from his audience, he decided to work with his daughter Smt. Hema,
             to present the work as an e-book and this website for the listeners
@@ -67,8 +76,8 @@ export default function About() {
           </p>
           <p className="mb-5">
             By the grace of Shreeman Narayanan, Aazhwars and Aachariars, the
-            musical journey to all 108 Divya Desams has been completed through
-            the 108 Krithis sung in 108 different ragas.
+            musical journey to all 108 Divya Desams is being successfully
+            completed through the 108 Krithis sung in 108 different ragas.
           </p>
         </div>
       </div>
